@@ -55,7 +55,7 @@ Get the application running locally in under 2 minutes using Docker Compose.
 ### 1. Clone & Configure
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/creditflow.git
+git clone https://github.com/bhargav-joshi/creditflow.git
 cd creditflow
 
 # Configure environment variables
