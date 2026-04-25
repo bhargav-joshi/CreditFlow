@@ -120,6 +120,3 @@ pytest --cov=app --cov-report=term-missing
 
 ---
 
-<div align="center">
-  <i>Built as part of a Backend Engineering Showcase</i>
-</div>
