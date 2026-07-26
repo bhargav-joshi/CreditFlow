@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy[asyncio]
+asyncpg
+python-jose[cryptography]
+passlib[bcrypt]
+redis
+pytest
+pytest-asyncio
+pytest-cov
+httpx
+python-dotenv
+fakeredis
